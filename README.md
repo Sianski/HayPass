@@ -80,7 +80,3 @@ def generate_password():
 ## Conclusion
 
 The **Random Password Generator** is a straightforward yet powerful tool for creating secure passwords. With its intuitive interface and multilingual support, it caters to a wide range of users. Contributions and suggestions for improvements are always welcome!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/25385663/26563ea4-8b1d-4bfd-8662-2df939739088/paste.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/25385663/12e875ee-1cb6-4880-a374-da6c56c4d912/paste.txt
